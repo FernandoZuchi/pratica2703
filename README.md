@@ -13,9 +13,6 @@
 
 **1. Boas-vindas e Introdução (5 minutos)**
 
-O instrutor deve iniciar a aula acolhendo os alunos, explicando que o foco será aprender algoritmos simples comparando duas linguagens populares: JavaScript (linguagem não tipada) e C# (linguagem fortemente tipada).
-
-**Fala sugerida:**
 "Hoje vamos colocar em prática a lógica de programação usando duas linguagens que vocês encontrarão muito no mercado: JavaScript e C#. Vamos entender como cada uma trata os dados, como elas se comportam na execução de algoritmos simples, e o que isso significa na prática." 
 
 ---
@@ -189,17 +186,8 @@ for (int i = 1; i <= 10; i++) {
 
 **6. Encerramento e Dúvidas (5 minutos)**
 
-**Fala sugerida:**
 "Muito bem! Hoje vocês viram como a mesma lógica pode ser aplicada em diferentes linguagens, cada uma com suas características. Isso é fundamental para desenvolver o raciocínio de programação. Continuem praticando!"
 
 ---
 
-**Recursos Complementares:**
-- [https://replit.com](https://replit.com) - Para pr
-ar JavaScript e C# online
-- [https://dotnetfiddle.net](https://dotnetfiddle.net) - Ambiente C# online
-- [https://jsfiddle.net](https://jsfiddle.net) - Ambiente JavaScript online
-
----
-
-**Fim do Roteiro.**
+Foco nos estudos!
